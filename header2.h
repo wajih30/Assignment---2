@@ -1,7 +1,7 @@
 #pragma once
 #define complexfloat
 #include <iostream>
-#include "Complex.h"
+#include "header1.h"
 using namespace std;
 
 class complexfloat:public intcomplex{
