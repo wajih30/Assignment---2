@@ -1,5 +1,5 @@
 #include <iostream>
-#inlcude "complex.h"
+#inlcude "header1.h"
 
 using namespace std;
 intcomplex::intcomplex(int number,int complex) : number(number),complex(complex){}
